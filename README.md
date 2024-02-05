@@ -9,9 +9,9 @@
 </br>
 
 <ul>
-	<li><h3>👨🏻‍💻 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h3></li>
+<!-- 	<li><h3>👨🏻‍💻 저는 주니어 프론트엔드 개발자 입니다, I'm a junior frontend developer.</h3></li>
 	<li><h3>🙃 코딩을 즐기는 개발자 입니다, I'm a developer who enjoys coding.</h3></li>
-	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li>
+	<li><h3>🙂 사용자의 편의를 중요시 생각하는 개발자 입니다, I'm a developer who values user convenience.</h3></li> -->
 </ul>
 
 </br>
