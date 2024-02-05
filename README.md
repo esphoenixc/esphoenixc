@@ -17,12 +17,7 @@
 </br>
 </br>
 
-<div align='center'>
-	
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white&link=https://silicon-ambert-d47.notion.site/47b2e7876ccd4ff19fd824268ee8f642)](https://silicon-ambert-d47.notion.site/47b2e7876ccd4ff19fd824268ee8f642)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:studybbcd@gmail.com)](mailto:studybbcd@gmail.com)
-<a href="https://velog.io/@esphoenixc" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white" style='width:87px; height:28px;'/></a> &nbsp;
-</div>
+
 
 </br>
 </br>
